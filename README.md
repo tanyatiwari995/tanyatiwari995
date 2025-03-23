@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/@tanyatiwari43206" target="blank"><img src="https://img.shields.io/twitter/follow/@tanyatiwari43206?logo=twitter&style=for-the-badge" alt="@tanyatiwari43206" /></a> </p>
 
-- 🔭 I’m currently working on **Hosptial Management**
 
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Hosptial Management**
 
 - 🤝 I’m looking for help with **Hosptial Management**
 
